@@ -1,0 +1,512 @@
+[
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-1",
+    "title": "r/shopify Storefront Builders",
+    "platform": "Reddit",
+    "category": "Shopify Stores",
+    "memberCount": "240,000+ members",
+    "description": "The premier community for Shopify store merchants, theme customization, checkout conversion optimization, and app stack architecture.",
+    "joinUrl": "https://www.reddit.com/r/shopify/",
+    "tags": [
+      "shopify",
+      "ecommerce",
+      "storefront",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-2",
+    "title": "r/dropship Product Testing Guild",
+    "platform": "Reddit",
+    "category": "Dropshipping",
+    "memberCount": "240,000+ members",
+    "description": "Discussions on winning product validation, supplier vetting, fulfillment agent relationships, and profit margin analysis.",
+    "joinUrl": "https://www.reddit.com/r/dropship/",
+    "tags": [
+      "dropship",
+      "products",
+      "suppliers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-3",
+    "title": "r/TikTokAds Viral Paid Media",
+    "platform": "Reddit",
+    "category": "TikTok Advertising",
+    "memberCount": "38,000+ members",
+    "description": "Mastering Spark Ads, creative fatigue management, Hook-Hold-CTA scripting, and scaling TikTok Shop campaigns.",
+    "joinUrl": "https://www.reddit.com/r/TikTokAds/",
+    "tags": [
+      "tiktokads",
+      "viral",
+      "creative",
+      "roas"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-4",
+    "title": "r/FacebookAds Performance Marketing",
+    "platform": "Reddit",
+    "category": "Meta Advertising",
+    "memberCount": "190,000+ members",
+    "description": "Broad targeting strategies, Advantage+ shopping campaigns, dynamic creative testing (DCT), and pixel tracking solutions.",
+    "joinUrl": "https://www.reddit.com/r/FacebookAds/",
+    "tags": [
+      "facebookads",
+      "meta",
+      "cpa",
+      "roas"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-5",
+    "title": "r/PPC Pay-Per-Click Advertising",
+    "platform": "Reddit",
+    "category": "Paid Acquisition",
+    "memberCount": "180,000+ members",
+    "description": "Discussions on Google Performance Max campaigns, search intent harvesting, and multi-channel attribution modeling.",
+    "joinUrl": "https://www.reddit.com/r/PPC/",
+    "tags": [
+      "ppc",
+      "advertising",
+      "googleads",
+      "attribution"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-6",
+    "title": "r/ecommerce Direct-To-Consumer",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "380,000+ members",
+    "description": "Strategies for scaling DTC brands, customer lifetime value (LTV), chargeback prevention, and warehouse logistics.",
+    "joinUrl": "https://www.reddit.com/r/ecommerce/",
+    "tags": [
+      "ecommerce",
+      "dtc",
+      "scaling",
+      "ltv"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-7",
+    "title": "r/digitalmarketing Omnichannel Growth",
+    "platform": "Reddit",
+    "category": "Digital Marketing",
+    "memberCount": "320,000+ members",
+    "description": "Integrating influencer whitelisting, SMS marketing flows (Klaviyo), retargeting funnels, and affiliate programs.",
+    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
+    "tags": [
+      "marketing",
+      "klaviyo",
+      "retargeting",
+      "sms"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-8",
+    "title": "r/marketing Growth & Strategy",
+    "platform": "Reddit",
+    "category": "Marketing Strategy",
+    "memberCount": "850,000+ members",
+    "description": "Consumer psychology, value proposition positioning, offer design, and viral narrative crafting.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "strategy",
+      "psychology",
+      "growth"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-9",
+    "title": "r/socialmediamarketing Organic Reach",
+    "platform": "Reddit",
+    "category": "Social Media",
+    "memberCount": "340,000+ members",
+    "description": "Short-form video algorithms (TikTok, Reels, Shorts), creator management, UGC production, and brand virality.",
+    "joinUrl": "https://www.reddit.com/r/socialmediamarketing/",
+    "tags": [
+      "smm",
+      "ugc",
+      "reels",
+      "virality"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-10",
+    "title": "r/Entrepreneur Direct Sales",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,500,000+ members",
+    "description": "Bootstrapping e-commerce ventures from zero to seven figures, negotiating supplier terms, and cashflow management.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "bootstrap",
+      "scaling",
+      "revenue"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-11",
+    "title": "r/smallbusiness Store Operations",
+    "platform": "Reddit",
+    "category": "Small Business",
+    "memberCount": "2,400,000+ members",
+    "description": "Managing returns, merchant accounts, Stripe/Shopify Payments underwriting, and customer support infrastructure.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "payments",
+      "operations",
+      "support"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-12",
+    "title": "r/adops Ad Operations & Tracking",
+    "platform": "Reddit",
+    "category": "Tracking & CAPI",
+    "memberCount": "48,000+ members",
+    "description": "Server-side tracking, Conversions API (CAPI), Google Tag Manager, post-iOS14 privacy attribution, and UTM tagging.",
+    "joinUrl": "https://www.reddit.com/r/adops/",
+    "tags": [
+      "adops",
+      "tracking",
+      "capi",
+      "gtm"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-13",
+    "title": "r/AffiliateMarket Referral Revenue",
+    "platform": "Reddit",
+    "category": "Affiliate Revenue",
+    "memberCount": "42,000+ members",
+    "description": "Setting up customer referral programs, creator affiliate commissions, and co-branded promotion bundles.",
+    "joinUrl": "https://www.reddit.com/r/AffiliateMarket/",
+    "tags": [
+      "affiliate",
+      "referral",
+      "commissions",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-14",
+    "title": "r/onlinebusiness Digital Commerce",
+    "platform": "Reddit",
+    "category": "Online Business",
+    "memberCount": "68,000+ members",
+    "description": "Case studies, revenue proof, payment gateway optimization, and recurring subscription e-commerce models.",
+    "joinUrl": "https://www.reddit.com/r/onlinebusiness/",
+    "tags": [
+      "onlinebusiness",
+      "subscriptions",
+      "ecommerce",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-15",
+    "title": "r/webdev Storefront Engineering",
+    "platform": "Reddit",
+    "category": "Frontend Development",
+    "memberCount": "2,400,000+ members",
+    "description": "Building custom Liquid components, page speed performance, Core Web Vitals optimization, and headless storefronts.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "liquid",
+      "performance",
+      "frontend"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-discord-16",
+    "title": "Shopify Official Discord Guild",
+    "platform": "Discord",
+    "category": "Shopify Hub",
+    "memberCount": "78,000+ members",
+    "description": "Official Discord server for Shopify merchants, app developers, theme designers, and ecommerce partners.",
+    "joinUrl": "https://discord.gg/shopify",
+    "tags": [
+      "shopify",
+      "discord",
+      "merchants",
+      "apps"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-discord-17",
+    "title": "Dropshipping & Ecom Discord",
+    "platform": "Discord",
+    "category": "Dropshipping Community",
+    "memberCount": "55,000+ members",
+    "description": "Active community discussing ad creatives, landing page optimization, winning product spy tools, and shipping times.",
+    "joinUrl": "https://discord.gg/dropshipping",
+    "tags": [
+      "dropshipping",
+      "discord",
+      "creatives",
+      "tools"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-discord-18",
+    "title": "E-Commerce Elite Discord Lounge",
+    "platform": "Discord",
+    "category": "DTC Mastermind",
+    "memberCount": "62,000+ members",
+    "description": "High-volume store owners sharing 7-figure scaling playbooks, media buying formulas, and private supplier networks.",
+    "joinUrl": "https://discord.gg/ecommerce",
+    "tags": [
+      "ecommerce",
+      "discord",
+      "scaling",
+      "playbook"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-discord-19",
+    "title": "Media Buyers Global Discord",
+    "platform": "Discord",
+    "category": "Paid Traffic",
+    "memberCount": "52,000+ members",
+    "description": "Direct response ad buyers discussing TikTok algorithm changes, Meta ban waves, and ad account warming protocols.",
+    "joinUrl": "https://discord.gg/mediabuyers",
+    "tags": [
+      "mediabuyers",
+      "discord",
+      "tiktok",
+      "meta"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-discord-20",
+    "title": "TikTok Advertising Community Discord",
+    "platform": "Discord",
+    "category": "TikTok Ads",
+    "memberCount": "35,000+ members",
+    "description": "UGC creator casting, TikTok Shop affiliate programs, creative trends, and budget pacing strategies.",
+    "joinUrl": "https://discord.gg/tiktokads",
+    "tags": [
+      "tiktokads",
+      "discord",
+      "ugc",
+      "creatives"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-telegram-21",
+    "title": "Shopify Dropshipping Alpha Telegram",
+    "platform": "Telegram",
+    "category": "Store Strategy",
+    "memberCount": "58,000+ members",
+    "description": "Daily store tear-downs, high-converting offer breakdowns, and Klaviyo email sequence templates.",
+    "joinUrl": "https://t.me/shopifydropshipping",
+    "tags": [
+      "shopify",
+      "telegram",
+      "offers",
+      "klaviyo"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-telegram-22",
+    "title": "Winning Products Radar Telegram",
+    "platform": "Telegram",
+    "category": "Product Discovery",
+    "memberCount": "75,000+ members",
+    "description": "Real-time curated alerts on viral trending products across TikTok Creative Center, Meta Ad Library, and AliExpress.",
+    "joinUrl": "https://t.me/winningproducts",
+    "tags": [
+      "winningproducts",
+      "telegram",
+      "viral",
+      "spy"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-telegram-23",
+    "title": "TikTok Viral Trends Channel Telegram",
+    "platform": "Telegram",
+    "category": "Creative Trends",
+    "memberCount": "64,000+ members",
+    "description": "Curated trending sounds, viral video formats, high-CTR hook libraries, and UGC video frameworks.",
+    "joinUrl": "https://t.me/tiktokviraltrends",
+    "tags": [
+      "tiktok",
+      "telegram",
+      "trends",
+      "ugc"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-telegram-24",
+    "title": "Ecom Masters Global Network Telegram",
+    "platform": "Telegram",
+    "category": "E-Commerce Mastermind",
+    "memberCount": "48,000+ members",
+    "description": "Case studies on scaling single-product stores to general brands, private supplier vetting, and packaging upgrades.",
+    "joinUrl": "https://t.me/ecom_masters",
+    "tags": [
+      "ecom",
+      "telegram",
+      "scaling",
+      "branding"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-telegram-25",
+    "title": "Facebook Ads Blueprint Telegram",
+    "platform": "Telegram",
+    "category": "Ad Strategies",
+    "memberCount": "52,000+ members",
+    "description": "Testing frameworks, cost-per-acquisition (CPA) targets, ad spend budgeting spreadsheets, and ban appeals.",
+    "joinUrl": "https://t.me/fbads_blueprint",
+    "tags": [
+      "fbads",
+      "telegram",
+      "cpa",
+      "scaling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-26",
+    "title": "r/startups E-Commerce Founders",
+    "platform": "Reddit",
+    "category": "Founder Network",
+    "memberCount": "1,850,000+ members",
+    "description": "Discussions on direct-to-consumer brand launches, working capital financing, and supplier contract terms.",
+    "joinUrl": "https://www.reddit.com/r/startups/",
+    "tags": [
+      "startups",
+      "dtc",
+      "founders",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-27",
+    "title": "r/SideProject Storefront Launches",
+    "platform": "Reddit",
+    "category": "Makers",
+    "memberCount": "280,000+ members",
+    "description": "Makers sharing first-dollar sales, conversion rate experiments, and product-market fit discoveries.",
+    "joinUrl": "https://www.reddit.com/r/SideProject/",
+    "tags": [
+      "sideproject",
+      "makers",
+      "sales",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-28",
+    "title": "r/InstagramMarketing Creator Collabs",
+    "platform": "Reddit",
+    "category": "Social Selling",
+    "memberCount": "210,000+ members",
+    "description": "Negotiating influencer shoutouts, Instagram Shop setups, creator reels, and engagement strategies.",
+    "joinUrl": "https://www.reddit.com/r/InstagramMarketing/",
+    "tags": [
+      "instagram",
+      "influencers",
+      "marketing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-reddit-29",
+    "title": "r/FulfillmentByAmazon Hybrid Retail",
+    "platform": "Reddit",
+    "category": "Multi-Channel",
+    "memberCount": "115,000+ members",
+    "description": "Expanding Shopify DTC stores into Amazon Multi-Channel Fulfillment (MCF) and Walmart marketplace.",
+    "joinUrl": "https://www.reddit.com/r/fulfillmentbyamazon/",
+    "tags": [
+      "fba",
+      "mcf",
+      "omnichannel",
+      "ecommerce"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "dropshipping-tiktok-shop-hub-telegram-30",
+    "title": "Ecom Scaling Strategies Telegram",
+    "platform": "Telegram",
+    "category": "Revenue Scaling",
+    "memberCount": "39,000+ members",
+    "description": "Advanced post-purchase upsell architectures, bundle pricing strategies, and subscription model transitions.",
+    "joinUrl": "https://t.me/ecomscaling",
+    "tags": [
+      "ecom",
+      "telegram",
+      "upsell",
+      "subscriptions"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
