@@ -1,5 +1,24 @@
 [
   {
+    "id": "tiktok-shop-dropshipping-hub-telegram-20260925-1",
+    "title": "Ecom World News Telegram Channel",
+    "platform": "Telegram",
+    "category": "Industry Updates",
+    "memberCount": "46,000+ members",
+    "description": "Breaking news across Amazon, Walmart Marketplace, TikTok Shop, and international e-commerce platforms.",
+    "joinUrl": "https://t.me/ecomworld",
+    "tags": [
+      "ecom",
+      "telegram",
+      "news",
+      "marketplaces"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "tiktok-shop-dropshipping-hub-telegram-20260924-1",
     "title": "Amazon PPC & Ads Optimization Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
