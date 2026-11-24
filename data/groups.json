@@ -1,5 +1,24 @@
 [
   {
+    "id": "dropshipping-tiktok-shop-hub-reddit-7",
+    "title": "r/digitalmarketing Omnichannel Growth",
+    "platform": "Reddit",
+    "category": "Digital Marketing",
+    "memberCount": "320,000+ members",
+    "description": "Integrating influencer whitelisting, SMS marketing flows (Klaviyo), retargeting funnels, and affiliate programs.",
+    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
+    "tags": [
+      "marketing",
+      "klaviyo",
+      "retargeting",
+      "sms"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "dropshipping-tiktok-shop-hub-reddit-6",
     "title": "r/ecommerce Direct-To-Consumer",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -720,24 +739,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "dropshipping-tiktok-shop-hub-reddit-7",
-    "title": "r/digitalmarketing Omnichannel Growth",
-    "platform": "Reddit",
-    "category": "Digital Marketing",
-    "memberCount": "320,000+ members",
-    "description": "Integrating influencer whitelisting, SMS marketing flows (Klaviyo), retargeting funnels, and affiliate programs.",
-    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
-    "tags": [
-      "marketing",
-      "klaviyo",
-      "retargeting",
-      "sms"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "dropshipping-tiktok-shop-hub-reddit-8",
